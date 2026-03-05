@@ -5,6 +5,10 @@
 
 # General
 Downloads
+EtherLab/Library
+EtherLab/obj
+EtherLab/Packages
+EtherLab/Logs
 
 # User-specific files
 *.rsuser
